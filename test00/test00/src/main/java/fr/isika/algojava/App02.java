@@ -9,6 +9,8 @@ package fr.isika.algojava;
 
 //Je modifie MAIN **********
 
+//Ajout de nouvelle branche testing
+//modif sera donc sur la branche testing
 import java.util.Random;
 import java.util.Scanner;
 
