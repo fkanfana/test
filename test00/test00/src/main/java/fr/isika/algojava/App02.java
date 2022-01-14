@@ -3,6 +3,8 @@ package fr.isika.algojava;
 // MAIN
 // Modif sur la nouvelle branche testing
 // Modif fkanfana
+// Je vais ajouter des modifications 
+// pour m'entrainer sur gitHub
 
 import java.util.Random;
 import java.util.Scanner;
@@ -10,6 +12,7 @@ import java.util.Scanner;
 public class App02 {
 
 	public static void main(String[] args) {
+		System.out.println("Utilation de gitHub : gestion de vresions");
 		//		// TODO Auto-generated method stub
 		//		// déclaration de varaibles
 		//		// = c'est l'opérateur d'affectation
