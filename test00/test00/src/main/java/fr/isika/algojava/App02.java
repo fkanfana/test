@@ -6,6 +6,8 @@ package fr.isika.algojava;
 // Je vais ajouter des modifications 
 // pour m'entrainer sur gitHub
 
+//Ajout de nouvelle branche testing
+//modif sera donc sur la branche testing
 import java.util.Random;
 import java.util.Scanner;
 
